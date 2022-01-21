@@ -5,10 +5,10 @@
 // }
 // console.log('En dehors de IF : ', nom)
 
-for (let i = 1; i <= 5; i = i + 1) {
-    console.log('i dans la boucle : ', i)
-}
-console.log('i en dehors de la boucle : ', i)
+// for (let i = 1; i <= 5; i = i + 1) {
+//     console.log('i dans la boucle : ', i)
+// }
+// console.log('i en dehors de la boucle : ', i)
 
 // Concatenation
 alert('Je suis dans la joie')
