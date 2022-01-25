@@ -16,7 +16,7 @@ console.log('=============')
 for (let i = 0; i < name.length; i++) {
     console.log(`${name[i]}`) //name[0]
 }
-
+// console.log(prenom)
 // for...of
 console.log('For of')
 console.log('======')
