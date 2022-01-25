@@ -3,6 +3,8 @@ function addition(nombre1, nombre2) {
     return somme
 }
 
+const addition = (nombre1, nombre2) => nombre1 + nombre2
+
 function estMajeur(age) {
     if (age >= 18) {
         return true
@@ -22,6 +24,8 @@ function estMajeur(age) {
     return age >= 18 ? true : false
 }
 
+const estMajeur = (age) => (age >= 18 ? true : false)
+
 function estMajeur(age) {
     return age >= 18
 }
@@ -34,5 +38,3 @@ function direBonjour(prenom) {
 direBonjour('Anatole')
 
 // const message = direBonjour('Anatole')
-
-
